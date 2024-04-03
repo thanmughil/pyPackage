@@ -1,0 +1,4 @@
+pip download <library_name>
+
+pip install --no-index <library_file.whl>
+// Use spaces to separate multiple library_files for simultaneous installation
